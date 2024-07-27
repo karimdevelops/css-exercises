@@ -5,3 +5,8 @@
     DejaVu sans,
     sans-serif;
 }
+
+#second {
+  color: blue;
+  font-size: 36px;
+}
