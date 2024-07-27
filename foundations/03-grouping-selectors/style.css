@@ -8,3 +8,7 @@
   background: #000000;
   color: white;
 }
+
+.no-click {
+  background: #ffff00;
+}
