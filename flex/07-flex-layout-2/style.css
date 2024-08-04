@@ -23,6 +23,9 @@ body {
   background: #eee;
   color: darkmagenta;
   margin-top: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .sidebar {
