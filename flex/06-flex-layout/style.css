@@ -7,7 +7,6 @@ body {
   font-family: Roboto, sans-serif;
   display: flex;
   flex-direction: column;
-  align-items: center;
 }
 
 .header,
@@ -15,6 +14,20 @@ body {
 .footer,
 .footer ul {
   display: flex;
+}
+
+.header ul,
+.footer ul {
+  padding: 5px 10px;
+  gap: 15px;
+}
+
+.left-links {
+  margin-right: auto;
+}
+
+.right-links {
+  margin-left: auto;
 }
 
 .header {
