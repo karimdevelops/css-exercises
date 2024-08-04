@@ -52,3 +52,11 @@ ul {
   display: flex;
   gap: 16px;
 }
+
+.links {
+  margin-right: auto;
+}
+
+.notifications {
+  margin-left: auto;
+}
