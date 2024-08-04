@@ -25,9 +25,19 @@ img {
   background: #eee;
 }
 
-.main-info {
+.info-main {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.info-cards {
+  display: flex;
+  list-style: none;
+}
+
+.info-cards li {
+  width: 200px;
+  flex-wrap: wrap;
 }
