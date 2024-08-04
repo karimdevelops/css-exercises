@@ -38,6 +38,12 @@ body {
   margin-top: auto;
 }
 
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 img {
   width: 600px;
 }
