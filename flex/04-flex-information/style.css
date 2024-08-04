@@ -25,6 +25,11 @@ img {
   background: #eee;
 }
 
+.info-main,
+.info-cards {
+  display: flex;
+}
+
 .info-main {
   display: flex;
   flex-direction: column;
@@ -34,7 +39,6 @@ img {
 }
 
 .info-cards {
-  display: flex;
   list-style: none;
   gap: 52px;
   padding: 0;
