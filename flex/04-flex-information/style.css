@@ -37,6 +37,7 @@ img {
   display: flex;
   list-style: none;
   gap: 52px;
+  padding: 0;
 }
 
 .info-cards li {
