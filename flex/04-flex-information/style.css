@@ -43,4 +43,5 @@ img {
 .info-cards li {
   width: 200px;
   flex-wrap: wrap;
+  text-align: center;
 }
