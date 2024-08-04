@@ -17,6 +17,14 @@ body {
   display: flex;
 }
 
+.header {
+  margin-bottom: auto;
+}
+
+.footer {
+  margin-top: auto;
+}
+
 img {
   width: 600px;
 }
